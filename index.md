@@ -1,8 +1,12 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/trannammai/trannammai.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello, I am TRAN Nam-Mai, a junior developer whose initial background is Economics, but now converting step by step to the Data science world. I obtained a Master of Science in Statistics and Econometrics and a MBA majoring in Big Data. Currently I am working at Micropole, France in the Smart analytics team where I have opportunity to be involved in diverse client projects, from data visualization to machine learning and text mining.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My skillset is including but not limited to: 
+
+Programming: R (Advanced), Python(Intermediate), SQL (Advanced)
+Data preparation: Alteryx (Intermediate)
+Data visualisation: Qlik Sense (Advanced), Power BI (Intermediate), R Shiny (Advanced)
 
 ### Markdown
 
