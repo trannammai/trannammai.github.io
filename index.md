@@ -4,9 +4,9 @@ Hello, I am TRAN Nam-Mai, a junior developer whose initial background is Economi
 
 My skillset is including but not limited to: 
 
-Programming: R (Advanced), Python(Intermediate), SQL (Advanced)
-Data preparation: Alteryx (Intermediate)
-Data visualisation: Qlik Sense (Advanced), Power BI (Intermediate), R Shiny (Advanced)
+- Programming: R (Advanced), Python(Intermediate), SQL (Advanced)
+- Data preparation: Alteryx (Intermediate)
+- Data visualisation: Qlik Sense (Advanced), Power BI (Intermediate), R Shiny (Advanced)
 
 ### Markdown
 
