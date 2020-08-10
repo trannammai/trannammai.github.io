@@ -11,7 +11,7 @@ Other tools that I have experience in at least two projects: SPAD, Alteryx, Hado
 
 ### Contact
 
-If you are searching for a junior position in data science, especially in the domain marketing, with these aboved mentioned skills, then I would be the right candidate for it. Please contact me at: <br/>
+If you are searching for a junior position in data science, especially in the domain marketing, with these aboved mentioned skills, then I would be the right candidate for it and will be available for the job by the beginning of December 2020. Please contact me at: <br/>
 Email: tnmai0709@gmail.com <br/>
 Twitter: @trannammai<br/>
 Mobile: 0616442551<br/>
