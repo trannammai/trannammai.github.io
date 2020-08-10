@@ -23,8 +23,10 @@ You can also find all my previous work at: https://github.com/trannammai
 
 If you are searching for a junior position in data science, especially in the domain marketing, with these aboved mentioned skills, then I would be the right candidate for it. I will be available for the job opportunity by the beginning of December 2020. If it matches your needs, swipe left! Please contact me at: <br/>
 Email: tnmai0709@gmail.com <br/>
-Twitter: @trannammai<br/>
 Mobile: 0616442551<br/>
 
+### More about me
+
+I have an interview with Qlik within the context of Qlik Datathon Challenge 2020 where I won the first prize of a challenge. Read the full interview here: https://community.qlik.com/t5/Qlik-Academic-Program-Blog/Career-ambitions-in-Business-Intelligence-supported-by-Qlik/ba-p/1717938
 
 
