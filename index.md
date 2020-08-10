@@ -9,6 +9,13 @@ I am able to use proficiently these following tools:
 
 Other tools that I have experience in at least two projects: SPAD, Alteryx, Hadoop, Access, Excel VBA
 
+### Projects
+1. [EN] Simulation of indirect election game (R, R Studio)
+2. [FR] Identify the profile of volatile customer of Biocoop (Python, SQL)
+3. Updating...
+
+You can also find all my previous work at: https://github.com/trannammai
+
 ### Contact
 
 If you are searching for a junior position in data science, especially in the domain marketing, with these aboved mentioned skills, then I would be the right candidate for it and will be available for the job by the beginning of December 2020. Please contact me at: <br/>
@@ -16,6 +23,5 @@ Email: tnmai0709@gmail.com <br/>
 Twitter: @trannammai<br/>
 Mobile: 0616442551<br/>
 
-You can also find my previous work at: https://github.com/trannammai
 
 
