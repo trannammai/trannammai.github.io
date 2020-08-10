@@ -7,12 +7,13 @@ I am able to use proficiently these following tools:
 - Programming: R, Python, SQL (PostgreSQL)
 - Data visualisation: Qlik Sense, Power BI
 
-Other tools that I have experience in at least two projects: SPAD, Alteryx, Hadoop, Access, Excel VBA
+Other tools that I have experience in at least two projects in the past: SPAD, Alteryx, Hadoop, Access, Excel VBA
 
 ### Projects
 1. [EN] Simulation of indirect election game (R, R Studio)
 2. [FR] Identify the profile of volatile customer of Biocoop (Python, SQL)
-3. Updating...
+3. [FR] Predict the country of destination of Airbnb users (R)
+4. Updating...
 
 You can also find all my previous work at: https://github.com/trannammai
 
