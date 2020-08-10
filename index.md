@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my github page
 
 Hello, my name is TRAN Nam-Mai, a junior developer whose initial background is Economics, now converting step by step to the data science world. In order to prepare for that, I have been pursuing two advanced degrees in data science: a Msc in Statistics and a MBA in Big Data Analytics where I can acquire neccessary statistics knowledge, programming skills and business acumen. Currently I am working at Micropole, France as a developer (in apprenticeship / alternance) in the Smart analytics team where I have opportunity to be involved in diverse projects in data analysis and business intelligence. I am strongly interested in data science, especially in the marketing domain, and would love to have an opportunity to step in this world where I can apply my knowledge to solve real world problems.
 
