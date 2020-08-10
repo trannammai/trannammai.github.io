@@ -1,41 +1,21 @@
 ## Welcome to GitHub Pages
 
-Hello, I am TRAN Nam-Mai, a junior developer whose initial background is Economics, but now converting step by step to the Data science world. I obtained a Master of Science in Statistics and Econometrics and a MBA majoring in Big Data. Currently I am working at Micropole, France in the Smart analytics team where I have opportunity to be involved in diverse client projects, from data visualization to machine learning and text mining.
+Hello, my name is TRAN Nam-Mai, a junior developer whose initial background is Economics, now converting step by step to the data science world. In order to prepare for that, I have been pursuing two advanced degrees in data science: a Msc in Statistics and a MBA in Big Data Analytics where I can acquire neccessary statistics knowledge, programming skills and business acumen. Currently I am working at Micropole, France as a developer (in apprenticeship / alternance) in the Smart analytics team where I have opportunity to be involved in diverse projects in data analysis and business intelligence. I am strongly interested in data science, especially in the marketing domain, and would love to have an opportunity to step in this world where I can apply my knowledge to solve real world problems.
 
-My skillset is including but not limited to: 
+I am able to use proficiently these following tools:
 
-- Programming: R (Advanced), Python(Intermediate), SQL (Advanced)
-- Data preparation: Alteryx (Intermediate)
-- Data visualisation: Qlik Sense (Advanced), Power BI (Intermediate), R Shiny (Advanced)
+- Programming: R, Python, SQL (PostgreSQL)
+- Data visualisation: Qlik Sense, Power BI
 
-### Markdown
+Other tools that I have experience in at least two projects: SPAD, Alteryx, Hadoop, Access, Excel VBA
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contact
 
-```markdown
-Syntax highlighted code block
+If you are searching for a junior position in data science, especially in the domain marketing, with these aboved mentioned skills, then I would be the right candidate for it. Please contact me at: <br/>
+Email: tnmai0709@gmail.com <br/>
+Twitter: @trannammai<br/>
+Mobile: 0616442551<br/>
 
-# Header 1
-## Header 2
-### Header 3
+I am able to communicate in English, French and Vietnamese.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/trannammai/trannammai.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
