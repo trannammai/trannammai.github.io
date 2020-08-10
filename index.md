@@ -7,7 +7,9 @@ I am able to use proficiently these following tools:
 - Programming: R, Python, SQL (PostgreSQL)
 - Data visualisation: Qlik Sense, Power BI
 
-Other tools that I have experience in at least two projects in the past: SPAD, Alteryx, Hadoop, Access, Excel VBA
+Other tools that I have experience in at least two projects in the past: SPAD, Alteryx, Hadoop, Access, Excel VBA.
+
+My full CV can be found here (Updating...)
 
 ### Projects
 1. [EN] Simulation of indirect election game (R, R Studio)
