@@ -27,4 +27,7 @@ Mobile: 0616442551<br/>
 
 ### More about me
 
-I have an interview with Qlik within the context of Qlik Datathon Challenge 2020 where I won the first prize of that challenge. Read the full interview here: https://community.qlik.com/t5/Qlik-Academic-Program-Blog/Career-ambitions-in-Business-Intelligence-supported-by-Qlik/ba-p/1717938
+I have an interview with Qlik within the context of Qlik Datathon Challenge 2020 where I won the first prize of that challenge. 
+![image](https://i.ibb.co/hLfjbBF/Qlik-Interview.png)
+Read the full interview here: https://community.qlik.com/t5/Qlik-Academic-Program-Blog/Career-ambitions-in-Business-Intelligence-supported-by-Qlik/ba-p/1717938
+
