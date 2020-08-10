@@ -18,7 +18,7 @@ You can also find all my previous work at: https://github.com/trannammai
 
 ### Contact
 
-If you are searching for a junior position in data science, especially in the domain marketing, with these aboved mentioned skills, then I would be the right candidate for it and will be available for the job by the beginning of December 2020. Please contact me at: <br/>
+If you are searching for a junior position in data science, especially in the domain marketing, with these aboved mentioned skills, then I would be the right candidate for it. I will be available for the job opportunity by the beginning of December 2020. If it matches your needs, swipe left! Please contact me at: <br/>
 Email: tnmai0709@gmail.com <br/>
 Twitter: @trannammai<br/>
 Mobile: 0616442551<br/>
