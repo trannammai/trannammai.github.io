@@ -16,6 +16,6 @@ Email: tnmai0709@gmail.com <br/>
 Twitter: @trannammai<br/>
 Mobile: 0616442551<br/>
 
-I am able to communicate in English, French and Vietnamese.
+You can also find my previous work at: https://github.com/trannammai
 
 
